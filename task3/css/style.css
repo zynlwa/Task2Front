@@ -1,0 +1,30 @@
+i{
+font-size: 90px;
+}
+.container{
+    width: 190px;
+    text-align: center;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+  font-weight: normal;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+h2{
+     font-family: 'Playfair Display', serif;
+    font-weight: normal;
+     font-size: 20px;
+     margin-top: 0;
+  
+  
+}
+p{
+     font-family: 'Lora', serif;
+      color: #555;
+      font-size: 15px;
+        line-height: 1.2;
+        
+}
+

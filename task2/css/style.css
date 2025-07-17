@@ -1,0 +1,63 @@
+body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 40px;
+      background-color: #fff;
+    }
+
+    .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      flex-wrap: wrap;
+    }
+
+    .info {
+      flex: 1;
+      max-width: 50%;
+    }
+
+    .info h1 {
+    font-size: 36px;
+    margin-bottom: 0;
+    
+}
+     .info h3 {
+      font-size: 28px;
+      padding:1px;
+      margin-top: 1px;
+      margin-bottom: 50px;
+      font-weight: normal;
+    }
+
+    .info p {
+      font-size: 20px;
+      color: #333;
+    }
+.icons {
+  flex: 1;
+  max-width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+  .icon {
+  width: 50%;
+  box-sizing: border-box;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+
+    .icon i {
+    font-size: 50px;
+    margin-bottom: 45px;
+    color: #555;
+}
+
+    .icon h3 {
+      font-size: 18px;
+      margin: 0;
+      font-weight: 600;
+    }
